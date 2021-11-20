@@ -1,6 +1,6 @@
 import time
 def move():
-	pass
+	shift += 1
 def draw():
 	pass
 while True:
