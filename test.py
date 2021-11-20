@@ -6,4 +6,4 @@ def draw():
 while True:
 	move()
 	draw()
-	time.sleep(0.1)
+	time.sleep(0.2)
