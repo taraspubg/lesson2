@@ -2,7 +2,7 @@ import time
 def move():
 	pass
 def draw():
-	pass
+	(' ' * shift + 'a')
 while True:
 	move()
 	draw()
